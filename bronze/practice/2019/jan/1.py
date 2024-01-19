@@ -1,3 +1,5 @@
+# http://www.usaco.org/index.php?page=viewproblem2&cpid=891
+ 
 def solution(n, swaps):
   highest = 0
   for i in range(3):
